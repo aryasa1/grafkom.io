@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Image](https://proceduralthoughts.files.wordpress.com/2014/08/shaderfilenames.jpg)
+![Image](https://www.youtube.com/watch?v=4PWUhOvMHso)
 
 ```markdown
 Syntax highlighted code block
